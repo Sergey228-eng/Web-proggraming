@@ -1,0 +1,34 @@
+body{
+    background-attachment: scroll;
+    background-size: 100%;
+    background-image: url(Фон.jpg);
+    
+}
+h1{
+    color: yellow;
+    font-size: 10in;
+}
+.Sellector{
+    color:fuchsia;
+}
+#p2{
+    font-style: italic;
+}
+.p3{
+    color: pink;
+}
+.FirstPar{
+    text-indent: 10%;
+    font-size: 110%;
+    
+}
+.SecondPar{
+    font-style: oblique;
+    font-size: 20pt;
+    color: green;
+    text-transform: uppercase;
+}
+.ThirdPar{
+    text-align: center;
+    line-height: 20mm;
+}

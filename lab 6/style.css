@@ -1,0 +1,16 @@
+ul{
+    list-style-image: url("Монета.jpg");
+    list-style-position: inside;
+    color: fuchsia;
+}
+a:link:hover{
+    color: #006400;
+    text-decoration:line-through;
+    cursor: progress;
+}
+body{
+    background-attachment: scroll;
+    background-size: 100%;
+    background-image: url(D:/Фон.jpg);
+    background-repeat: no-repeat;
+}
